@@ -9,6 +9,7 @@ class Calculator {
     this.currentOperand = ''
     this.previousOperand = ''
     this.operation = undefined
+    System.out.println("Chris Bohr");
   }
 
   delete() {
